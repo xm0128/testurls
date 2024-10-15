@@ -3,7 +3,8 @@ CZ Links
 
 1. [HTTP CZ link](http://accp.app.cz.nl)
 2. [HTTPS CZ link](https://accp.app.cz.nl)
-3. [CZ Betalen link](https://accp.app.cz.nl/betalen/betaalverzoek?status=fulfilled)
+3. [CZ Betalen link accp](https://accp.app.cz.nl/betalen/betaalverzoek?status=fulfilled)
+3. [CZ Betalen link accp from push](https://accp.app.cz.nl/betalen/betaalverzoek?status=fulfilled&push=true)
 
 Just Links
 
@@ -30,6 +31,8 @@ Betalen Links success
 1. [HTTP CZ deeplink link](https://accp.app.cz.nl/betalen/betaalverzoek?status=[status])
 2. [HTTP Just deeplink link](https://app.just.nl/betalen/betaalverzoek?status=[status])
 3. [HTTP PZP deeplink link](https://app.pzp.nl/betalen/betaalverzoek?status=[status])
+
+
 
 Vergoedingen Links
 
