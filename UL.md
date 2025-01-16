@@ -40,4 +40,9 @@ Vergoedingen Links
 2. [HTTP Just deeplink vergoeden](https://accp.app.just.nl/vergoeden)
 3. [HTTP PZP deeplink vergoeden](https://accp.app.pzp.nl/vergoeden)
 
+Vergoedingen Links
+
+1. [HTTP CZ deeplink vergoeden](https://app.cz.nl/vergoeden)
+2. [HTTP Just deeplink vergoeden](https://app.just.nl/vergoeden)
+3. [HTTP PZP deeplink vergoeden](https://app.pzp.nl/vergoeden)
 
